@@ -32,5 +32,4 @@ Currently the filters are very sensitive and must match the data exactly.
 
 ### Further Improvements
 1. The datetime filter could be an intuitive 'Date Picker'
-2. The state filter could be a dropdown selector
-3. The other filters should not be case sensitive
+3. The other filters should at least not be case sensitive, or better yet be dropdowns or provide an auto-complete feature
