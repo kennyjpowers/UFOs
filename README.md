@@ -17,7 +17,7 @@ The webpage is also customized using Bootstrap.
 3. You can further filter the data by typing into the other text boxes and clicking Enter. Only sightings that meet all of the entered criteria will be displayed:
 ![second filter](Resources/second_filter.png)
 4. If you delete all of the text in any of the boxes and click Enter, that filter will be removed:
-![remove first filter](Resouces/remove_first_filter.png)
+![remove first filter](Resources/remove_first_filter.png)
 
 
 ## Summary
