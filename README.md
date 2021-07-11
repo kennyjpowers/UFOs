@@ -9,6 +9,11 @@ The webpage is also customized using Bootstrap.
 
 
 ## Results
+
+### How to access the webpage
+You can access the webpage at https://kennyjpowers.github.io/UFOs/
+
+
 ### How to use the webpage
 1. The table located at the bottom of the webpage will contain all of the UFO sighting data when you first load the page:
 ![initial table](Resources/initial.png)
